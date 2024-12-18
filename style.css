@@ -1,24 +1,19 @@
 body {
-  background-color: brown;
+  background-color: silver;
 }
-
 h3 {
-  color: aqua;
-  font-size: 30px;
-  text-decoration: overline underline black wavy;
+  color: black;
+  font-size: 40px;
+  text-decoration: underline black wavy;
   word-spacing: 15px;
-  text-shadow: 3px 3px 8px gold;
+  text-shadow: 3px 3px 8px yellow;
 }
 h3:hover {
   font-size: 50px;
-  text-shadow: 3px 3px 15px purple;
+  text-shadow: 3px 3px 8px gold;
    font-variant: small-caps;
 }
 img{
   width:40%;
-  border-radius: 80%;
-  
-}
-img:hover {
-  width: 50%;
-}
+  height:40%;
+  border-radius: 60%;
